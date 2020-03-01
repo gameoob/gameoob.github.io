@@ -2,6 +2,9 @@
 - Es wird großartig
 - I can use this file format [(link)](https://guides.github.com/features/mastering-markdown/) to write my webpages
   - [Here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) is a pdf version of the above. (Cheat sheet for Markdown)
+- Checklist:
+  - [X] Seite erstellen
+  - [ ] coole Inhalte hochladen
 
 ## [gameoob's tips](tips/)
 
