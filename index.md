@@ -5,7 +5,8 @@
 - Checklist:
   - [X] Seite erstellen
   - [ ] coole Inhalte hochladen
-
+## Cat Pic
+![](grey-and-white-short-fur-cat-104827.jpg | width=300)
 ## [gameoob's tips](tips/)
 
 ## [gameoob's projects](projects/)
