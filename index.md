@@ -4,7 +4,7 @@
   - [Here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) is a pdf version of the above. (Cheat sheet for Markdown)
 - Checklist:
   - [X] Seite erstellen
-  - [ ] coole Inhalte hochladen 
+  - [X] coole Inhalte hochladen 
   
 ## Cat Pic
 [![](grey-and-white-short-fur-cat-104827.jpg)](https://cheezburger.com/10715909/conspiracy-cats-wearing-tin-foil-hats-so-no-one-will-control-their-mind)
